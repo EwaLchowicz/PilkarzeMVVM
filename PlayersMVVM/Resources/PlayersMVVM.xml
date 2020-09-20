@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlayerViewModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerViewModel>
+    <FirstName>fdfd</FirstName>
+    <LastName>fdfd</LastName>
+    <Weight>70</Weight>
+    <Age>15</Age>
+    <Description>fdfd fdfd, wiek: 15, waga: 70</Description>
+  </PlayerViewModel>
+  <PlayerViewModel>
+    <FirstName>Zlatan</FirstName>
+    <LastName>Ibrahamović</LastName>
+    <Weight>95.1</Weight>
+    <Age>38</Age>
+    <Description>Zlatan Ibrahamović, wiek: 38, waga: 95,1</Description>
+  </PlayerViewModel>
+</ArrayOfPlayerViewModel>
